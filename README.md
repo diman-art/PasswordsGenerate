@@ -7,7 +7,7 @@
 First, clone the repository on your computer.And then go to the desired directory.<br>
 ```bash
 git clone https://github.com/rodukov/BruteForceDictionaryGenerator
-cd BruteForceDictionaryGenerator
+cd Passwords
 ```
 ### ⚙️ Install requirements
 ```bash
