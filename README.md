@@ -3,8 +3,7 @@
 
 ### ⬇️ Установка:
 
-git clone https://github.com/rodukov/BruteForceDictionaryGenerator
-cd Passwords
+git clone https://github.com/diman-art/PasswordsGenerate.git && cd Passwords
 
 ### ⚙️ Установка зависимостей:
 sudo apt-get install python3
