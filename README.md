@@ -9,7 +9,7 @@ git clone https://github.com/diman-art/PasswordsGenerate.git && cd Passwords
 sudo apt-get install python3
 
 # Как запустить скрипт?
- python3 passgen.py`
+ python3 passgen.py
 # Чтобы запустить программу напиши:
 generate
 Программа создаст файл pass.txt
