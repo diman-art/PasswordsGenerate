@@ -1,5 +1,5 @@
 # Date: 02/23/2019
-# Author: Mohamed
+# Author: diman-art
 # Description: A password generator
 
 
